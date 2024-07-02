@@ -1,4 +1,4 @@
-*Note: I will not be uploading the Airbnb "listings" data set due to data protection reasons.*
+*Note: I will not be uploading the Airbnb training data set due to data protection reasons.*
 
 Airbnb ML Modeling
 
