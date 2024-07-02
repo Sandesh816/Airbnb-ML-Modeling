@@ -10,10 +10,6 @@ Table of Contents
 	•	Data
 	•	Tasks
 	•	Results
-	•	Installation
-	•	Usage
-	•	Contributing
-	•	License
 
 Project Overview
 
