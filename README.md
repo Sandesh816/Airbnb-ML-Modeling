@@ -1,3 +1,5 @@
+*Note: I will not be uploading the Airbnb "listings" data set due to data protection reasons.*
+
 Airbnb ML Modeling
 
 This repository contains a project focused on the evaluation phase of the machine learning life cycle, using logistic regression on Airbnb listings data. The goal is to perform model selection, hyperparameter tuning, and feature selection to solve a classification problem.
